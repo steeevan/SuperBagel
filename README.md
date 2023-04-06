@@ -4,3 +4,7 @@ VEX IQ Python code for the super bagel team. Contains code for all systems
 For example:
 LeftBase -> Port 2
 RightBase -> Port 10
+Slapshot -> Port 1
+Bluetower -> Port 3
+Purpletower -> Port 12
+bucket -> Port 7
